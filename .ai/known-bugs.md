@@ -1,1 +1,3 @@
-None yet. Bugs will live here once they inevitably show up. 😂
+April 17, 2025
+
+- In dark mode, the input fields and text areas are in #ffff color.
