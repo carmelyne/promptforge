@@ -1,0 +1,4 @@
+- ✅ MVP with local prompt saving
+- ⏳ Prompt preview integration
+- 🧪 AI-generated prompt scoring
+- 🛠 Import/export

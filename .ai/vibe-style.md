@@ -1,0 +1,3 @@
+- UI: minimal, accessible, feel-good
+- Copy tone: casual, smart, not cheesy
+- Code style: clean, commented, modular

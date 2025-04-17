@@ -1,0 +1,3 @@
+- Not an LLM platform itself
+- Not a hosted SaaS at this stage
+- No login system initially—local-only for MVP

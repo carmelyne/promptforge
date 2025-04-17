@@ -1,0 +1,5 @@
+- Save and organize prompts
+- Tag prompts by tool, tone, or task
+- Optionally save a sample output with each prompt to illustrate expected results
+- Favorite/star best-performing prompts
+- Export/import prompt collections
